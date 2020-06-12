@@ -1,2 +1,0 @@
-# BOT-DC
-BOT DC
